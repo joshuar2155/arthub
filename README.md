@@ -60,6 +60,8 @@ We wanted to create an interactive platform for artists to be able to communicat
 
 ## Links
 
-[Deployed URL]('')
+https://github.com/joshuar2155/arthub
 
-[GitHub URL](https://github.com/DeviousDoge/arthub)
+https://joshuar2155.github.io/arthub/
+
+https://salty-lowlands-37761.herokuapp.com/
